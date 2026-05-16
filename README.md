@@ -15,7 +15,7 @@ Distill turns any Teams / Zoom / Google Meet transcript into a complete learning
 4. **Evaluates every answer** — MCQ explanations + Dr. Priya's AI interview debrief across 5 dimensions
 5. **Exports results** — WhatsApp-ready report with score, verdict, and study recommendations
 
-All processing happens locally. No data leaves your machine when using Ollama or LM Studio.
+All processing happens locally. No data leaves your machine when using Ollama or LM Studio !!
 
 ---
 
