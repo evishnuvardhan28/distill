@@ -5,6 +5,7 @@
 
 # Distill — Pure knowledge, for each and every class
 > An AI-powered classroom assessment tool by Inceptez.  
+> Built with FastAPI, React, Ollama, LM Studio, and Whisper.
 > Paste a transcript → get a concept map + adaptive quiz + Dr. Priya's interview debrief.
 
 ---
