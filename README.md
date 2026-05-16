@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 # Distill — Pure knowledge, every class
 
 > An AI-powered classroom assessment tool by Inceptez .  
+=======
+00000# Distill — Pure knowledge, every class
+
+# Distill — Pure knowledge, for each and every class
+> An AI-powered classroom assessment tool by Inceptez.  
+>>>>>>> 608ae962198a9fbf6c75b2423bfef8315da8ff5a
 > Paste a transcript → get a concept map + adaptive quiz + Dr. Priya's interview debrief.
 
 ---
@@ -640,7 +647,7 @@ Trying to add some doc
 #Testing line - Sabari
 
 - readme changes
-
+- added new features
 
 #Testing - Nat
 
